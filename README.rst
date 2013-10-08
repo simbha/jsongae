@@ -4,7 +4,7 @@ JSON/RPC 2.0 with Google App Engine (Python)
 
 This sample application demonstrates how to run a client written with GWT on
 Google App Engine (Python). The client communicates with the server interfaces
-through JSON/RPC (http://groups.google.com/group/json-rpc/web/json-rpc-2-0).
+through JSON/RPC (https://groups.google.com/forum/#!forum/json-rpc) this URL ---> (http://groups.google.com/group/json-rpc/web/json-rpc-2-0) returns 404.
 
 
 Copyright and License
